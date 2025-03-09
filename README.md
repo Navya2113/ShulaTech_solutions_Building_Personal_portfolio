@@ -26,9 +26,10 @@
         <font size="4" <center><b><font face="Roboto">I'm Engineering student currently pursuing Artificial Intelligence and Data Science.I'm passionate
            about my skills.As a Data science student,I'm also interested in otherfields of work like frontend,backend, and web.
              I would greatly contribute to the work with great consistency.</center></b></font></div></font>
-           <a href ="skills.html"><button>SKILLS</button></a>        
-            <a href ="education.html"><button>EDUCATION</button></a>
-            <a href ="contact.html"><button>CONTACT</button></a>
+          
+   <a href ="skills.html"><button>SKILLS</button></a>        
+    <a href ="education.html"><button>EDUCATION</button></a>
+    <a href ="contact.html"><button>CONTACT</button></a>
             </div>
         </div>
     </div>
@@ -79,7 +80,7 @@
   }
   .page{
     color:black;
-    line-height: 14px;
+    line-height: 18px;
   }
   .dot{
     color: black;
